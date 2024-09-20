@@ -2,7 +2,7 @@
 Exploring cybersecurity through innovative projects and hands-on learning.
 ## Overview
 
-The DTXP-L5-CyberCapstone project involves creating an aesthetically pleasing and functional homelab that integrates on-premise and cloud-based systems. It showcases advanced cybersecurity skills while supporting various applications like media streaming and home security.
+The **DTXP-L5-CyberCapstone** project involves creating an aesthetically pleasing and functional homelab that integrates on-premise and cloud-based systems. It showcases advanced cybersecurity skills while supporting various applications like media streaming and home security.
 
 ## Key Features
 
@@ -63,6 +63,18 @@ For citing this project, please use the following format:
 ```css
 
 DTXP-L5-CyberCapstone. (2024). GitHub Repository. Retrieved from (https://github.com/Vewiser)]
+
+```
+
+### Project Objectives
+
+```markdown
+
+1. ** Design an Aesthetic Homelab: Create a visually appealing and organized space that enhances user experience.
+2. ** Integrate On-Premise and Cloud Solutions: Develop a cohesive system combining local and cloud resources for diverse applications.
+3. ** Showcase Cybersecurity Skill: Implement robust security measures to demonstrate expertise in protecting hardware and software.
+4. ** Ensure Scalability: Build a flexible architecture that allows for easy upgrades and future expansions.
+5. ** Provide Comprehensive Documentation: Maintain a well-organized GitHub repository with design plans and implementation guides for reference.
 
 ```
 
