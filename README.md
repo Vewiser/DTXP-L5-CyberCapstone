@@ -74,7 +74,7 @@ DTXP-L5-CyberCapstone. (2024). GitHub Repository. Retrieved from (https://github
 2. ** Integrate On-Premise and Cloud Solutions: Develop a cohesive system combining local and cloud resources for diverse applications.
 3. ** Showcase Cybersecurity Skill: Implement robust security measures to demonstrate expertise in protecting hardware and software.
 4. ** Ensure Scalability: Build a flexible architecture that allows for easy upgrades and future expansions.
-5. ** Provide Comprehensive Documentation: Maintain a well-organized GitHub repository with design plans and implementation guides for reference.
+5. ** Provide Comprehensive Documentation: Maintain a well-organized repository with design plans and implementation guides for reference.
 
 ```
 
