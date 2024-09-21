@@ -10,11 +10,11 @@ The **DTXP-L5-CyberCapstone** project involves creating an aesthetically pleasin
 - **Advanced Functionality:** Combines on-premise and cloud solutions for diverse applications.
 - **Scalable Architecture:** Easily upgradeable hardware and cloud services.
 - **Seamless Integration:** Unified operation across all devices and applications.
-- **Comprehensive Documentation:** Detailed GitHub repository with design plans and case studies.
+- **Comprehensive Documentation:** Detailed repository with design plans and case studies.
 
 ## Main Benefits
 
-- Enhances technical skills in coding, Linux, and networking.
+- Enhances technical skills in Coding, Linux, and Networking.
 - Builds a professional portfolio showcasing expertise.
 - Encourages community engagement and feedback.
 - Adds value to home environments.
